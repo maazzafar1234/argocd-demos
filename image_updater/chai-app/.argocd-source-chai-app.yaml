@@ -1,4 +1,4 @@
 kustomize:
   images:
   - trainwithshubham/chai-devops:v1.0.3
-  - maazzafar07/chai-devops:v1.0.2
+  - maazzafar07/chai-devops:v1.0.3
